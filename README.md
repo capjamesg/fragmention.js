@@ -1,6 +1,6 @@
 # fragmention.js
 
-An implementation of the Fragmentation specification in JavaScript.
+An implementation of the [Fragmention specification](https://indieweb.org/fragmention) in JavaScript.
 
 ## Getting Started
 
